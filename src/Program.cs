@@ -9,7 +9,7 @@ namespace WatchRunDocker
         {
             var signal = new AutoResetEvent(false);
 
-            Console.WriteLine("Hello Worldsdd!");
+            Console.WriteLine("Hello World!");
 
             signal.WaitOne();
 

@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:1.1.2-sdk
+FROM microsoft/dotnet:2.0-sdk
 
 ENV DOTNET_USE_POLLING_FILE_WATCHER 1
 
